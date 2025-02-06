@@ -31,6 +31,7 @@
   "xiaomi-4a-100m": ["1", "ramips", "mt76x8", "xiaomi_mi-router-4a-100m"],
   "xiaomi-4c": ["1", "ramips", "mt76x8", "xiaomi_mi-router-4c"],
   "wndr3800": ["3", "ath79",  "generic", "wndr3800"],
+  "CR6609": ["9", "ramips", "mt7621", "xiaomi_mi-router-cr660x"],
   "miwifi-nano": ["1", "ramips", "mt76x8", "xiaomi_miwifi-nano"]
 
 }
