@@ -48,6 +48,7 @@ on:
           - 'glinet-microuter-n300'
           - 'xiaomi-4a-100m'
           - 'xiaomi-4c'
+          - 'wndr3800'
           - 'miwifi-nano'
       lan_ipad:
         description: '设置LAN口IP地址(会覆盖modify脚本中的设置)'
