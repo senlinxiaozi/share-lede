@@ -49,6 +49,7 @@ on:
           - 'xiaomi-4a-100m'
           - 'xiaomi-4c'
           - 'wndr3800'
+          - 'CR6609'
           - 'miwifi-nano'
       lan_ipad:
         description: '设置LAN口IP地址(会覆盖modify脚本中的设置)'
@@ -76,11 +77,11 @@ on:
       release:
         description: '上传到release'
         required: false
-        default: true
         type: boolean
       artifact:
         description: '上传到artifact'
         required: false
+        default: true
         type: boolean
 
 permissions:
