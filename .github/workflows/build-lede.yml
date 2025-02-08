@@ -90,7 +90,8 @@ permissions:
 jobs:
   to-build:
     name: build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
+    # ubuntu-latest
     env:
       EXTRA_STR: _some
     steps:
