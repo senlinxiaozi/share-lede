@@ -51,6 +51,7 @@ on:
           - 'xiaomi-4a-100m'
           - 'xiaomi-4c'
           - 'miwifi-3c'
+          - 'xiaomi-cr6609-2'
           - 'miwifi-nano'
       branch:
         description: '选择版本'
