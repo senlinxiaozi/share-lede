@@ -32,6 +32,7 @@
   "xiaomi-4c": ["1", "ramips", "mt76x8", "xiaomi_mi-router-4c"],
   "wndr3800": ["3", "ath79",  "generic", "netgear_wndr3800"],
   "CR6609": ["9", "ramips", "mt7621", "xiaomi_mi-router-cr660x"],
+  "yidong-360t7": ["7", "mediatek", "filogic", "qihoo_360t7"],
   "miwifi-nano": ["1", "ramips", "mt76x8", "xiaomi_miwifi-nano"]
 
 }
