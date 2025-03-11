@@ -78,11 +78,11 @@ on:
       release:
         description: '上传到release'
         required: false
+        default: true
         type: boolean
       artifact:
         description: '上传到artifact'
         required: false
-        default: true
         type: boolean
 
 permissions:
