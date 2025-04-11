@@ -52,13 +52,14 @@ on:
           - 'xiaomi-4c'
           - 'miwifi-3c'
           - 'xiaomi-cr6609-2'
+          - 'qihoo-360t7-2'
           - 'miwifi-nano'
       branch:
         description: '选择版本'
         required: true
         type: choice
         options:
-          - 'openwrt-23.05'
+          - 'openwrt-24.10'
           - 'openwrt-21.02'
           - 'master'
       latest_tag:
